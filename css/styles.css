@@ -1,0 +1,171 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  height: 100%;
+}
+
+h1 {
+  margin-top: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #163172;
+  line-height: 1.5;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  color: #163172;
+  font-weight: bold;
+  margin: 0;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  color: #1e56a0;
+}
+
+hr {
+  border-style: none;
+  border-top: dotted;
+  border-width: 5px;
+  border-color: #d6e4f0;
+  width: 3%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-top: 60px;
+  margin-bottom: 30px;
+}
+
+a {
+  color: #1e56a0;
+}
+
+.btn {
+  background-color: #163172;
+  border-radius: 4px;
+  border: none;
+  display: inline-block;
+  font-family: 'Montserrat', sans-serif;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 1em;
+  padding: 5px;
+  width: 130px;
+  margin: 10px 0 100px 0;
+  text-decoration: none;
+}
+
+.top-container {
+  background-color: #d6e4f0;
+  height: 100%;
+  padding-top: 100px;
+  position: relative;
+  margin: 0;
+  clear: none;
+}
+
+.middle-container {
+  /* background-color: #f6f6f6; */
+  margin: 0;
+  clear: none;
+}
+
+.bottom-container {
+  background-color: #1e56a0;
+  padding-top: 30px
+}
+
+.skill-row {
+  line-height: 2;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  width: 50%;
+}
+
+.skill-image1 {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-image2 {
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+
+.profile-pic {
+  width: 10%;
+  margin: 50px 0 20px 0;
+}
+
+.cloud-top {
+  position: absolute;
+  left: 600px;
+  top: 30px;
+  /* right: 300px;
+  top: 50px; */
+}
+
+.cloud-bottom {
+  position: absolute;
+  right: 600px;
+  /* left: 300px;
+  bottom: 300px; */
+}
+
+.footer-link {
+  color:#f6f6f6;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  text-decoration: none;
+  margin: 30px;
+}
+
+.copyright {
+  margin: 0;
+  color: #163172;
+  margin-top: 20px;
+  font-size: 0.9em;
+}
+
+
+/* clear will stop the text from wrapping (anti-float)
+.skill1-description{
+  clear: left;
+}
+
+.skill2-description{
+  clear: right;
+} */
+/* .top-container {
+  background-color: #d6e4f0;
+  height: 200px;
+  width: 200px;
+  border: 10px;
+  padding: 20px;
+  border-style: solid;
+}
+
+.middle-container{
+  background-color: #1e56a0;
+  width: 200px;
+  height: 200px;
+  margin-left: 260px;
+  border-width: 20px;
+  border-style: solid;
+  background-clip: content-box;
+}
+
+.bottom-container {
+  background-color: #163172;
+  background-clip: content-box;
+  margin-left: 500px;
+  border: 10px;
+  width: 200px;
+  height: 200px;
+  border-style: solid;
+} */
